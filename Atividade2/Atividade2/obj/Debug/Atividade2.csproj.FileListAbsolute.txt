@@ -1,0 +1,8 @@
+C:\Users\lorenzo.oschwanz\source\repos\Atividade2\Atividade2\bin\Debug\Atividade2.exe.config
+C:\Users\lorenzo.oschwanz\source\repos\Atividade2\Atividade2\bin\Debug\Atividade2.exe
+C:\Users\lorenzo.oschwanz\source\repos\Atividade2\Atividade2\bin\Debug\Atividade2.pdb
+C:\Users\lorenzo.oschwanz\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.csproj.AssemblyReference.cache
+C:\Users\lorenzo.oschwanz\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lorenzo.oschwanz\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.oschwanz\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.exe
+C:\Users\lorenzo.oschwanz\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.pdb
